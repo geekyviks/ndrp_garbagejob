@@ -12,5 +12,5 @@ Optimized, engaging and rewarding garbagejob script for ESX framework (FIVEM Ser
 - add the job 'garbage' to database in jobs table
 - add these two lines to server.cfg
 
-``ensure progressBars
-ensure ndrp_garbagejob``
+``ensure progressBars``
+``ensure ndrp_garbagejob``
