@@ -13,4 +13,5 @@ Optimized, engaging and rewarding garbagejob script for ESX framework (FIVEM Ser
 - add these two lines to server.cfg
 
 ``ensure progressBars``
+
 ``ensure ndrp_garbagejob``
