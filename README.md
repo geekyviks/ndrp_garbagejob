@@ -16,5 +16,7 @@ Demo: https://www.youtube.com/watch?v=HITzbo4vpbg
 - add these three lines to server.cfg
 
 ``ensure progressBars``
+
 ``ensure mythic_notify``
+
 ``ensure ndrp_garbagejob``
